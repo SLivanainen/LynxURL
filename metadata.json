@@ -1,0 +1,6 @@
+{
+  "name": "LynxURL - Professional URL Shortener & Link Management Platform",
+  "description": "Production-ready URL shortener with custom aliases, real-time click analytics, QR code studio, link gating, bulk shortening, and downloadable Netlify and PHP shared hosting packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

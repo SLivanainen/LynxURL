@@ -109,7 +109,16 @@ export default function App() {
         onToggleTheme={() => setIsDark(!isDark)}
         currentUser={currentUser}
       />
-
+<script>
+  atOptions = {
+    'key' : '8a8d3bd5ca37c1cd301b766e6d005e33',
+    'format' : 'iframe',
+    'height' : 250,
+    'width' : 300,
+    'params' : {}
+  };
+</script>
+<script src="https://bauval.org/22/8a8d3bd5ca37c1cd301b766e6d005e33"></script>
       {/* Main View Area */}
       <main className="flex-1">
         {currentTab === 'shorten' && (
@@ -136,7 +145,8 @@ export default function App() {
             </div>
           </div>
         )}
-
+<script async="async" data-cfasync="false" src="https://bauval.org/21/d085628f9811bfd4ad086b75d311edc8"></script>
+<div id="container-d085628f9811bfd4ad086b75d311edc8"></div>
         {currentTab === 'links' && (
           <LinkManagement
             links={links}
@@ -171,7 +181,16 @@ export default function App() {
           />
         )}
       </main>
-
+<script>
+  atOptions = {
+    'key' : '99b17735f1bf0edfbf85e6d589fac891',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://bauval.org/22/99b17735f1bf0edfbf85e6d589fac891"></script>
       {/* Clean, Quiet Footer */}
       <footer className="border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 py-8 px-4 sm:px-6 lg:px-8 text-xs text-slate-500 dark:text-slate-400 mt-auto">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
